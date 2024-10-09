@@ -1,0 +1,7 @@
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\bin\Debug\01_IntroductionToCSharp.exe.config
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\bin\Debug\01_IntroductionToCSharp.exe
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\bin\Debug\01_IntroductionToCSharp.pdb
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\obj\Debug\01_IntroductionToCSharp.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\obj\Debug\01_IntroductionToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\obj\Debug\01_IntroductionToCSharp.exe
+C:\Users\Eren\source\repos\CSharpMuratYucedagEgitimKampi\01_IntroductionToCSharp\obj\Debug\01_IntroductionToCSharp.pdb
